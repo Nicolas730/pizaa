@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Act1_nicolas_Pizza",
+    "slug": "Act1_nicolas_Pizza",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
